@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com"
+    "url": "git+https://flatdangotheatre.netlify.app/"
   },
   "author": "Gloria kitili",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://flatdangotheatre.netlify.app/"
   },
-  "homepage": "https://github.com/"
+  "homepage": "https://flatdangotheatre.netlify.app/"
 }

@@ -11,7 +11,7 @@
 # Development
 To get the code,
 ```bash
- click on this link: https://github.com/
+ click on this link: https://flatdangotheatre.netlify.app/
  ```
 - fork and git clone the code to you local machine.
 - Navigate to this folder by running this command:
